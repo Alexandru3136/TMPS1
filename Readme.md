@@ -1,0 +1,13 @@
+Principiile SOLID sunt un set de cinci principii de proiectare software care promovează dezvoltarea de cod ușor de întreținut, extensibil și cu o structură solidă. Aceste principii sunt:
+
+1. **Principiul responsabilității unice (Single Responsibility Principle - SRP):** Un obiect sau o clasă ar trebui să aibă o singură responsabilitate. Acest principiu afirmă că o clasă trebuie să fie responsabilă doar pentru o singură parte a funcționalității aplicației. Astfel, dacă trebuie să facem o modificare, aceasta va afecta doar o mică parte a codului.
+
+2. **Principiul deschis-pentru-extensibilitate, închis-pentru-modificare (Open-Closed Principle - OCP):** O entitate de software trebuie să fie deschisă pentru extensibilitate, dar închisă pentru modificare. Acest principiu promovează crearea de componente software care pot fi extinse fără a necesita modificări directe ale codului existent. În loc să modificăm codul existent, trebuie să putem adăuga funcționalități noi prin extinderea acestuia.
+
+3. **Principiul substituirii lui Liskov (Liskov Substitution Principle - LSP):** Obiectele de tip bază trebuie să poată fi înlocuite cu obiectele de tip derivat fără a afecta corectitudinea programului. Acest principiu se referă la modul în care clasele derivate trebuie să se comporte în raport cu clasele de bază. Trebuie să putem utiliza un obiect de tip derivat în locul unui obiect de tip bază fără a afecta logica aplicației.
+
+4. **Principiul segregării interfețelor (Interface Segregation Principle - ISP):** Mulți clienți nu ar trebui să depindă de interfețe pe care nu le folosesc. Acest principiu afirmă că interfețele trebuie să fie specifice și adaptate nevoilor clienților lor. Clasele nu ar trebui să fie forțate să implementeze metode sau funcționalități pe care nu le folosesc.
+
+5. **Principiul inversării dependențelor (Dependency Inversion Principle - DIP):** Modulele de nivel superior nu ar trebui să depindă direct de modulele de nivel inferior. Ambele ar trebui să depindă de abstracții. Acest principiu promovează dependența de abstracții, nu de implementări concrete. Modulele de nivel înalt ar trebui să depindă de abstracții, nu de detaliile specifice ale modulelor de nivel inferior.
+
+Principiile SOLID contribuie la crearea unui design modular, flexibil și ușor de întreținut pentru aplicațiile software. Ele promovează coeziunea, cuplajul redus și reutilizarea codului, conducând la un cod mai robust și mai ușor de gestionat pe termen lung.

@@ -1,0 +1,15 @@
+C:\Users\Alexandru\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net6.0\Lab1TMPS.exe
+C:\Users\Alexandru\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net6.0\Lab1TMPS.deps.json
+C:\Users\Alexandru\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net6.0\Lab1TMPS.runtimeconfig.json
+C:\Users\Alexandru\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net6.0\Lab1TMPS.dll
+C:\Users\Alexandru\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net6.0\Lab1TMPS.pdb
+C:\Users\Alexandru\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\Lab1TMPS.csproj.AssemblyReference.cache
+C:\Users\Alexandru\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\Lab1TMPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandru\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\Lab1TMPS.AssemblyInfoInputs.cache
+C:\Users\Alexandru\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\Lab1TMPS.AssemblyInfo.cs
+C:\Users\Alexandru\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\Lab1TMPS.csproj.CoreCompileInputs.cache
+C:\Users\Alexandru\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\Lab1TMPS.dll
+C:\Users\Alexandru\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\refint\Lab1TMPS.dll
+C:\Users\Alexandru\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\Lab1TMPS.pdb
+C:\Users\Alexandru\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\Lab1TMPS.genruntimeconfig.cache
+C:\Users\Alexandru\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\ref\Lab1TMPS.dll
